@@ -6,10 +6,10 @@
 - Basic Linux navigation commands
 
 ## Commands I Practiced
-ls -la # list files with details
-pwd    # print current directory
-mkdir  # make new directory
-rm -rf # remove files/folders
+- ls -la # list files with details
+- pwd    # print current directory
+- mkdir  # make new directory
+- rm -rf # remove files/folders
 
 ## What Was Confusing 
 - tmux key bindings take time to get used to
